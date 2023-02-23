@@ -1,3 +1,3 @@
 # INFOS ABOUT THE PROJECT
 
-_Look at the "**PIPEX.pdf**" above_
+[Tap here](https://maple-blackbird-19d.notion.site/PIPEX-bdf7dd955b6a4bcd99852156ca50186c)
