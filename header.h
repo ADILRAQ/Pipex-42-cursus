@@ -6,7 +6,7 @@
 /*   By: araqioui <araqioui@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/07 13:08:23 by araqioui          #+#    #+#             */
-/*   Updated: 2023/02/23 19:20:41 by araqioui         ###   ########.fr       */
+/*   Updated: 2023/02/23 20:10:54 by araqioui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,17 +45,6 @@ void		ft_free(t_info **all);
 void		exec_cmds(t_info **all);
 void		ft_check(t_info **all, char *str);
 void		ft_free_2d(char **str);
-
-/*  <-- BONUS -->  */
-
-// typedef struct s_list
-// {
-// 	char			**cmd;
-// 	char			*bin_path;
-// 	int				pid;
-// 	struct s_list	*next;
-// }	t_list;
-
 
 /*  <-- PRINTF -->  */
 
